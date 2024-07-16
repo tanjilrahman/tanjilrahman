@@ -1,19 +1,21 @@
-# Tanjil Rahman
+# 👋 Hey, I'm Tanjil Rahman
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https://linkedin.com/in/tanjil-rahman)](https://linkedin.com/in/tanjil-rahman)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&link=https://github.com/tanjilrahman)](https://github.com/tanjilrahman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet?logo=google-chrome&logoColor=white&link=https://www.tanjilrahman.dev)](https://www.tanjilrahman.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&link=mailto:tanjil.rahman739@gmail.com)](mailto:tanjil.rahman739@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&link=https://linkedin.com/in/tanjil-rahman)](https://linkedin.com/in/tanjil-rahman)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge&link=https://github.com/tanjilrahman)](https://github.com/tanjilrahman)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge&link=https://www.tanjilrahman.dev)](https://www.tanjilrahman.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:tanjil.rahman739@gmail.com)](mailto:tanjil.rahman739@gmail.com)
 
 ---
+
+![Developer at work](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 ## About Me
 I am a passionate full-stack developer with a strong foundation in both front-end and back-end technologies. I am currently pursuing a BSc in Computer Science and Engineering at Daffodil International University, expected to graduate in 2026. I have professional experience working as a SaaS Application Developer and a Web Developer and Designer, where I have developed and designed various web applications and services.
 
 ## Skills
-- **Programming:** TypeScript, JavaScript, Python
-- **Frontend:** React.js, Next.js, Tailwind CSS, Figma
-- **Backend:** NodeJS, ExpressJS, PostgreSQL, Prisma ORM, Firebase, Sanity CMS
+- **Programming:** ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- **Frontend:** ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+- **Backend:** ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) ![Sanity CMS](https://img.shields.io/badge/-Sanity%20CMS-F03E2F?logo=sanity&logoColor=white&style=flat)
 
 ## Education
 **BSc in Computer Science and Engineering**  
@@ -36,11 +38,8 @@ _Tribe Studio, New Jersey, USA (Remote)_
 - Designed UI/UX and marketing materials using Figma, Canva, and Illustrator.
 - Led design team and onboarding processes, improving designer onboarding efficiency by 40%.
 
-## Languages
-- **Bangla:** Native
-- **English:** Fluent
-
 ## Projects
+![Projects](https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif)
 
 ### [GolpoAI](https://golpoai.vercel.app/)
 _AI-based storytelling app_
@@ -88,19 +87,3 @@ _Custom E-commerce_
 ---
 
 Feel free to reach out via [email](mailto:tanjil.rahman739@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/tanjil-rahman)!
-
-
-<!--
-**tanjilrahman/tanjilrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
